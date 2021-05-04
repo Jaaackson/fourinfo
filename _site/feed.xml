@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>fourinfo</title>
-  <id>http://localhost:4000</id>
-  <link href="http://localhost:4000" />
-  <link href="http://localhost:4000/atom.xml" rel="self" />
-  <updated>2021-05-03T23:39:05-04:00</updated>
-  <rights>Copyright 2014, Jackson</rights>
-  <author>
-    <name>Jackson</name>
-  </author>
-  
-    <entry>
-      <title>Welcome to Hikari for Jekyll!</title>
-      <link href="http://localhost:4000/2014/01/28/welcome-to-jekyll/" />
-      <summary type="html">&lt;p&gt;Welcome to &lt;em&gt;Hikari&lt;/em&gt;, a responsive, fluid and minimalist Jekyll theme for developers. As a web designer keen on learning how to develop my own stuff, reading developers’ blog has always been the way to learn from the best. So I thought it was time to give back!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-03T23:39:05-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">fourinfo</title><subtitle>Accessible Information from the Deepest Parts of the Web</subtitle><author><name>Jackson</name></author><entry><title type="html">Welcome to Hikari for Jekyll!</title><link href="http://localhost:4000/2014/01/28/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Hikari for Jekyll!" /><published>2014-01-28T11:57:51-05:00</published><updated>2014-01-28T11:57:51-05:00</updated><id>http://localhost:4000/2014/01/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2014/01/28/welcome-to-jekyll/">&lt;p&gt;Welcome to &lt;em&gt;Hikari&lt;/em&gt;, a responsive, fluid and minimalist Jekyll theme for developers. As a web designer keen on learning how to develop my own stuff, reading developers’ blog has always been the way to learn from the best. So I thought it was time to give back!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Hikari&lt;/em&gt; is an open-source Jekyll theme packed with everything you need to get started and share your best learnings with the community.&lt;/p&gt;
 
@@ -44,19 +29,7 @@
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll.&lt;/p&gt;
 
-&lt;p&gt;More on &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-</summary>
-      <id>http://localhost:4000/2014/01/28/welcome-to-jekyll/</id>
-      <updated>2014-01-28T11:57:51-05:00</updated>
-      <author>
-        <name>Jackson</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>Styling guide for Hikari: best practices</title>
-      <link href="http://localhost:4000/2014/01/27/hikari-styling-guide/" />
-      <summary type="html">&lt;p&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.&lt;/p&gt;
+&lt;p&gt;More on &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html">Welcome to Hikari, a responsive, fluid and minimalist Jekyll theme for developers. As a web designer keen on learning how to develop my own stuff, reading developers’ blog has always been the way to learn from the best. So I thought it was time to give back!</summary></entry><entry><title type="html">Styling guide for Hikari: best practices</title><link href="http://localhost:4000/2014/01/27/hikari-styling-guide/" rel="alternate" type="text/html" title="Styling guide for Hikari: best practices" /><published>2014-01-27T11:57:51-05:00</published><updated>2014-01-27T11:57:51-05:00</updated><id>http://localhost:4000/2014/01/27/hikari-styling-guide</id><content type="html" xml:base="http://localhost:4000/2014/01/27/hikari-styling-guide/">&lt;p&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Good design is as little design as possible, said Dieter. Use quotations very carefully; especially if you don’t understand them.&lt;/p&gt;
@@ -117,19 +90,7 @@
 &lt;p&gt;In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.&lt;/p&gt;
 
 &lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
-&lt;p&gt;But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.&lt;/p&gt;
-</summary>
-      <id>http://localhost:4000/2014/01/27/hikari-styling-guide/</id>
-      <updated>2014-01-27T11:57:51-05:00</updated>
-      <author>
-        <name>Jackson</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>Moving to Tokyo, yeeha!</title>
-      <link href="http://localhost:4000/2014/01/22/moving-to-tokyo/" />
-      <summary type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</summary></entry><entry><title type="html">Moving to Tokyo, yeeha!</title><link href="http://localhost:4000/2014/01/22/moving-to-tokyo/" rel="alternate" type="text/html" title="Moving to Tokyo, yeeha!" /><published>2014-01-22T11:57:51-05:00</published><updated>2014-01-22T11:57:51-05:00</updated><id>http://localhost:4000/2014/01/22/moving-to-tokyo</id><content type="html" xml:base="http://localhost:4000/2014/01/22/moving-to-tokyo/">&lt;p&gt;&lt;img src=&quot;/assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.&lt;/p&gt;
 
@@ -149,19 +110,7 @@
 
 &lt;p&gt;He must have tried it a hundred times, shut his eyes so that he wouldn’t have to look at the floundering legs, and only stopped when he began to feel a mild, dull pain there that he had never felt before. “Oh, God”, he thought, “what a strenuous career it is that I’ve chosen!&lt;/p&gt;
 
-&lt;p&gt;Travelling day in and day out. Doing business like this takes much more effort than doing your own business at home, and on top of that there’s the curse of travelling, worries about making train connections, bad and irregular food, contact with different people all the time so that you can never get to know anyone or become friendly with them. It can all go to Hell!”.&lt;/p&gt;
-</summary>
-      <id>http://localhost:4000/2014/01/22/moving-to-tokyo/</id>
-      <updated>2014-01-22T11:57:51-05:00</updated>
-      <author>
-        <name>Jackson</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>A week-end in the desert (shawarmas and belly dancers)</title>
-      <link href="http://localhost:4000/2014/01/19/weekend-in-the-desert/" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
+&lt;p&gt;Travelling day in and day out. Doing business like this takes much more effort than doing your own business at home, and on top of that there’s the curse of travelling, worries about making train connections, bad and irregular food, contact with different people all the time so that you can never get to know anyone or become friendly with them. It can all go to Hell!”.&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html"></summary></entry><entry><title type="html">A week-end in the desert (shawarmas and belly dancers)</title><link href="http://localhost:4000/2014/01/19/weekend-in-the-desert/" rel="alternate" type="text/html" title="A week-end in the desert (shawarmas and belly dancers)" /><published>2014-01-19T11:57:51-05:00</published><updated>2014-01-19T11:57:51-05:00</updated><id>http://localhost:4000/2014/01/19/weekend-in-the-desert</id><content type="html" xml:base="http://localhost:4000/2014/01/19/weekend-in-the-desert/">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
 
 &lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
 
@@ -177,19 +126,7 @@
 
 &lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
 
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
-</summary>
-      <id>http://localhost:4000/2014/01/19/weekend-in-the-desert/</id>
-      <updated>2014-01-19T11:57:51-05:00</updated>
-      <author>
-        <name>Jackson</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>So much to do, so little time</title>
-      <link href="http://localhost:4000/2014/01/10/so-much-to-do-so-little-time/" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
+&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</summary></entry><entry><title type="html">So much to do, so little time</title><link href="http://localhost:4000/2014/01/10/so-much-to-do-so-little-time/" rel="alternate" type="text/html" title="So much to do, so little time" /><published>2014-01-10T11:57:51-05:00</published><updated>2014-01-10T11:57:51-05:00</updated><id>http://localhost:4000/2014/01/10/so-much-to-do-so-little-time</id><content type="html" xml:base="http://localhost:4000/2014/01/10/so-much-to-do-so-little-time/">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
 
 &lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
 
@@ -205,37 +142,12 @@
 
 &lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
 
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
-</summary>
-      <id>http://localhost:4000/2014/01/10/so-much-to-do-so-little-time/</id>
-      <updated>2014-01-10T11:57:51-05:00</updated>
-      <author>
-        <name>Jackson</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>Setting up Jekyll on Github Pages (is easier than you think)</title>
-      <link href="http://localhost:4000/2014/01/08/setting-up-jekyll-on-github-pages/" />
-      <summary type="html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
+&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</summary></entry><entry><title type="html">Setting up Jekyll on Github Pages (is easier than you think)</title><link href="http://localhost:4000/2014/01/08/setting-up-jekyll-on-github-pages/" rel="alternate" type="text/html" title="Setting up Jekyll on Github Pages (is easier than you think)" /><published>2014-01-08T11:57:51-05:00</published><updated>2014-01-08T11:57:51-05:00</updated><id>http://localhost:4000/2014/01/08/setting-up-jekyll-on-github-pages</id><content type="html" xml:base="http://localhost:4000/2014/01/08/setting-up-jekyll-on-github-pages/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-
-</summary>
-      <id>http://localhost:4000/2014/01/08/setting-up-jekyll-on-github-pages/</id>
-      <updated>2014-01-08T11:57:51-05:00</updated>
-      <author>
-        <name>Jackson</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>How Backbone.js changed my life</title>
-      <link href="http://localhost:4000/2014/01/06/how-backbone-changed-my-life/" />
-      <summary type="html">&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html">You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes! To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</summary></entry><entry><title type="html">How Backbone.js changed my life</title><link href="http://localhost:4000/2014/01/06/how-backbone-changed-my-life/" rel="alternate" type="text/html" title="How Backbone.js changed my life" /><published>2014-01-06T11:57:51-05:00</published><updated>2014-01-06T11:57:51-05:00</updated><id>http://localhost:4000/2014/01/06/how-backbone-changed-my-life</id><content type="html" xml:base="http://localhost:4000/2014/01/06/how-backbone-changed-my-life/">&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
 
 &lt;p&gt;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;
 
@@ -251,19 +163,7 @@ To add new posts, simply add a file in the &lt;code class=&quot;highlighter-roug
 
 &lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word “and” and the Little Blind Text should turn around and return to its own, safe country.&lt;/p&gt;
 
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their projects again and again. And if she hasn’t been rewritten, then they are still using her.&lt;/p&gt;
-</summary>
-      <id>http://localhost:4000/2014/01/06/how-backbone-changed-my-life/</id>
-      <updated>2014-01-06T11:57:51-05:00</updated>
-      <author>
-        <name>Jackson</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>Perception of design, a developer point of view</title>
-      <link href="http://localhost:4000/2014/01/05/perception-of-design/" />
-      <summary type="html">&lt;p&gt;His boss would certainly come round with the doctor from the medical insurance company, accuse his parents of having a lazy son, and accept the doctor’s recommendation not to make any claim as the doctor believed that no-one was ever ill but that many were workshy.&lt;/p&gt;
+&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their projects again and again. And if she hasn’t been rewritten, then they are still using her.&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</summary></entry><entry><title type="html">Perception of design, a developer point of view</title><link href="http://localhost:4000/2014/01/05/perception-of-design/" rel="alternate" type="text/html" title="Perception of design, a developer point of view" /><published>2014-01-05T11:57:51-05:00</published><updated>2014-01-05T11:57:51-05:00</updated><id>http://localhost:4000/2014/01/05/perception-of-design</id><content type="html" xml:base="http://localhost:4000/2014/01/05/perception-of-design/">&lt;p&gt;His boss would certainly come round with the doctor from the medical insurance company, accuse his parents of having a lazy son, and accept the doctor’s recommendation not to make any claim as the doctor believed that no-one was ever ill but that many were workshy.&lt;/p&gt;
 
 &lt;p&gt;And what’s more, would he have been entirely wrong in this case? Gregor did in fact, apart from excessive sleepiness after sleeping for so long, feel completely well and even felt much hungrier than usual.&lt;/p&gt;
 
@@ -277,19 +177,7 @@ To add new posts, simply add a file in the &lt;code class=&quot;highlighter-roug
 
 &lt;p&gt;His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.&lt;/p&gt;
 
-&lt;p&gt;It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. Drops of rain could be heard hitting the pane, which made him feel quite sad.&lt;/p&gt;
-</summary>
-      <id>http://localhost:4000/2014/01/05/perception-of-design/</id>
-      <updated>2014-01-05T11:57:51-05:00</updated>
-      <author>
-        <name>Jackson</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>Going back on 2013; quite an incredible year</title>
-      <link href="http://localhost:4000/2014/01/03/going-back-2013/" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
+&lt;p&gt;It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. Drops of rain could be heard hitting the pane, which made him feel quite sad.&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html">His boss would certainly come round with the doctor from the medical insurance company, accuse his parents of having a lazy son, and accept the doctor’s recommendation not to make any claim as the doctor believed that no-one was ever ill but that many were workshy.</summary></entry><entry><title type="html">Going back on 2013; quite an incredible year</title><link href="http://localhost:4000/2014/01/03/going-back-2013/" rel="alternate" type="text/html" title="Going back on 2013; quite an incredible year" /><published>2014-01-03T11:57:51-05:00</published><updated>2014-01-03T11:57:51-05:00</updated><id>http://localhost:4000/2014/01/03/going-back-2013</id><content type="html" xml:base="http://localhost:4000/2014/01/03/going-back-2013/">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
 
 &lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
 
@@ -305,13 +193,4 @@ To add new posts, simply add a file in the &lt;code class=&quot;highlighter-roug
 
 &lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
 
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
-</summary>
-      <id>http://localhost:4000/2014/01/03/going-back-2013/</id>
-      <updated>2014-01-03T11:57:51-05:00</updated>
-      <author>
-        <name>Jackson</name>
-      </author>
-    </entry>
-  
-</feed>
+&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</summary></entry></feed>

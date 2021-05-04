@@ -60,9 +60,27 @@
       <main>
         {{ content }}
       </main>
+<center>
+      <div class="newsletter-container">
+                     <h4 class="newsletter-title">Subscribe</h4>
+                     <!-- <p class="newsletter-text"></p> -->
+                     <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=fourinfo/supk', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
 
+                         <p class="newsletter-text">Get new posts to your inbox</p>
+
+                         <input type="hidden" value="fourinfo/supk" name="uri" />
+
+                         <input type="hidden" name="loc" value="en_US" />
+
+                         <input class="newsletter-email" type="text" name="email" placeholder="name@example.com" />
+
+                         <input class="newsletter-submit" type="submit" value="Subscribe" />
+
+                     </form>
+       </div>
+</center>
       <footer>
-        <small>Powered by Jekyll - Theme: <a href="https://github.com/m3xm/hikari-for-Jekyll">hikari</a> - &copy; {{ site.author }}</small>
+        <small>&copy; {{ site.author }}</small>
       </footer>
 
     </div>
