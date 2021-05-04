@@ -8,7 +8,7 @@ description: "Accessible Information from the Deepest Parts of the Web"
 author: "Jackson"
 
 url: "https://fourinfo.ga"
-baseurl: "fourinfo.ga"
+baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "Author Bio"
