@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-10T12:37:40-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">fourinfo</title><subtitle>Accessible Information from the Deepest Parts of the Web</subtitle><author><name>Jackson</name></author><entry><title type="html">Init Commit</title><link href="http://localhost:4000/2021/05/10/initcommit/" rel="alternate" type="text/html" title="Init Commit" /><published>2021-05-10T08:57:51-04:00</published><updated>2021-05-10T08:57:51-04:00</updated><id>http://localhost:4000/2021/05/10/initcommit</id><content type="html" xml:base="http://localhost:4000/2021/05/10/initcommit/">&lt;h1 id=&quot;init-commit&quot;&gt;Init Commit&lt;/h1&gt;
-&lt;p&gt;Thanks for taking the time to read our first post! The data for these visualizations comes from six months of scraped 4chan threads from August 2020 to February 2021.&lt;/p&gt;
-
-&lt;h2 id=&quot;election&quot;&gt;Election&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/img/election.svg&quot; alt=&quot;Election&quot; /&gt;
-Context: &lt;a href=&quot;https://www.washingtonpost.com/nation/2020/11/20/tucker-carlson-sidney-powell-fraud/&quot;&gt;Tucker Carlson bashes Trump attorney Sidney Powell for lack of evidence in fraud claims: ‘She never sent us any’&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;covid&quot;&gt;Covid&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/img/covid.svg&quot; alt=&quot;Covid&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;vaccine--vaccines&quot;&gt;Vaccine / Vaccines&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/img/vaccine.svg&quot; alt=&quot;Vaccine&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccines.svg&quot; alt=&quot;Vaccines&quot; /&gt;&lt;/p&gt;</content><author><name>Jackson</name></author><summary type="html">Init Commit Thanks for taking the time to read our first post! The data for these visualizations comes from six months of scraped 4chan threads from August 2020 to February 2021.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-10T12:41:18-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">fourinfo</title><subtitle>Accessible Information from the Deepest Parts of the Web</subtitle><author><name>Jackson</name></author></feed>
