@@ -4,17 +4,16 @@
   <id>http://localhost:4000</id>
   <link href="http://localhost:4000" />
   <link href="http://localhost:4000/atom.xml" rel="self" />
-  <updated>2021-05-10T12:57:09-04:00</updated>
-  <rights>Copyright 2014, Jackson</rights>
+  <updated>2021-05-10T23:02:17-04:00</updated>
+  <rights>Copyright 2014, fourinfo</rights>
   <author>
-    <name>Jackson</name>
+    <name>fourinfo</name>
   </author>
   
     <entry>
-      <title>Init Commit</title>
+      <title>Initial Commit</title>
       <link href="http://localhost:4000/2021/05/10/initcommit/" />
-      <summary type="html">&lt;h1 id=&quot;init-commit&quot;&gt;Init Commit&lt;/h1&gt;
-&lt;p&gt;Thanks for taking the time to read our first post! The data for these visualizations comes from six months of scraped 4chan threads from August 2020 to February 2021.&lt;/p&gt;
+      <summary type="html">&lt;p&gt;Thanks for taking the time to read our first post! The data for these visualizations comes from six months of scraped 4chan threads from August 2020 to February 2021.&lt;/p&gt;
 
 &lt;h2 id=&quot;election&quot;&gt;Election&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/img/election.svg&quot; alt=&quot;Election&quot; /&gt;
@@ -30,7 +29,7 @@ Context: &lt;a href=&quot;https://www.washingtonpost.com/nation/2020/11/20/tucke
       <id>http://localhost:4000/2021/05/10/initcommit/</id>
       <updated>2021-05-10T08:57:51-04:00</updated>
       <author>
-        <name>Jackson</name>
+        <name>fourinfo</name>
       </author>
     </entry>
   

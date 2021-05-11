@@ -5,13 +5,13 @@ name: "fourinfo"
 description: "Accessible Information from the Deepest Parts of the Web"
 
 # Your name. Will show in your footer + sidebar
-author: "Jackson"
+author: "fourinfo"
 
 url: "https://fourinfo.ga"
 baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "Author Bio"
+author-bio: "Hello!"
 
 # Social Accounts (mine, as placeholders)
 
