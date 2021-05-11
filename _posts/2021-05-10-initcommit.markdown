@@ -3,8 +3,6 @@ layout: post
 title:  "Initial Commit"
 date:   2021-05-10 12:57:51
 ---
-
-# Initial Commit
 Thanks for taking the time to read our first post! The data for these visualizations comes from six months of scraped 4chan threads from August 2020 to February 2021.
 
 ## Election
