@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Init Commit"
+title:  "Initial Commit"
 date:   2021-05-10 12:57:51
 ---
 
