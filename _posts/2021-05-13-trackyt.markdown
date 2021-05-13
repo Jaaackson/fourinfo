@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Using 4cat to track YouTube videos"
+date:   2021-05-10 12:57:51
+---
+# Tools Needed
+1. 4CAT’s YouTube URL metadata. 4CAT is a dashboard-like tool that scrapes data from Reddit, 4chan, 8chan, 8kun, Breitbart, Instagram, Telegram and Tumblr. The tool is free and there are detailed instructions on how you can install 4CAT on your own computer or server on their github
+
+2. DMI’s [Google Search Engine Scraper](https://tools.digitalmethods.net/beta/searchEngineScraper/).
+
+3. [A spreadsheet editor](https://www.libreoffice.org/discover/calc/).
+
+# Instructions
+
+1. On 4CAT, choose a dataset and query. Specify a date range if needed.
+
+2. Open your dataset. Go on YouTube URL metadata and choose subsequent parameters, if needed. If not, leave them as they are.
+
+3. In your resulting CSV, you may find that some of the videos you obtained were deleted  from YouTube. You can find these videos in the column deleted_or_failed. Filter your spreadsheet so only videos with TRUE appear in the column. These are all the videos that no longer exist on YouTube.
+
+4. Create a new column, and name it what you want, copying the links from the column referenced_urls and adding a comma to the end of each url.
+
+5. Copy the video URLs and paste these in the Google Search Engine Scraper.
+
+6. After running the Google Search Engine Scraper, click on Output at the top of the page and select Text. This will open a new tab with your data. Click on Save Page As and give it a name.
+
+7. Open a new Google sheet and click on Import and then select the Text file you just saved. It should come with .txt attached to the end of the name. Google will show you an Import file popup. Click on Import data.
+
+8. The text data has now been transmuted into a csv readable format which shows the top domains in which these videos were either referenced or accessible and the dates in which they appeared in these links’ domains.
+
+9. In a new spreadsheet, create two columns: (A) The first domain in which your videos have appeared (YouTube in this case); (B) The second domain in which said videos have appeared. This will be the column article url. To make sure the domains are easily readable, create a new column and extract the root domain from the longer url using the following Google Sheets formula:
+
+=trim(REGEXEXTRACT(REGEXREPLACE(REGEXREPLACE(C2,”https?://”,””),”^(w{3}\.)?”,””)&”/”,”([^/?]+)”))
+
+10. Paste your results on Raw Graphs, select alluvial diagram and place your source and root domain columns in the Steps entry. 
