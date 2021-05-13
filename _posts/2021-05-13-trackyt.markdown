@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using 4cat to track YouTube videos"
-date:   2021-05-10 12:57:51
+date:   2021-05-13 12:57:51
 ---
 # Tools Needed
 1. 4CAT’s YouTube URL metadata. 4CAT is a dashboard-like tool that scrapes data from Reddit, 4chan, 8chan, 8kun, Breitbart, Instagram, Telegram and Tumblr. The tool is free and there are detailed instructions on how you can install 4CAT on your own computer or server on their github
@@ -32,4 +32,4 @@ date:   2021-05-10 12:57:51
 
 =trim(REGEXEXTRACT(REGEXREPLACE(REGEXREPLACE(C2,”https?://”,””),”^(w{3}\.)?”,””)&”/”,”([^/?]+)”))
 
-10. Paste your results on Raw Graphs, select alluvial diagram and place your source and root domain columns in the Steps entry. 
+10. Paste your results on Raw Graphs, select alluvial diagram and place your source and root domain columns in the Steps entry.
